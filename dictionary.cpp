@@ -3,7 +3,7 @@
 #include <map>
 
 /**
-Test file to explore the differnt functions found in maps in C++ and notate their uses
+Test file to explore the different functions found in maps in C++ and notate their uses
 
 Started: 6/3/2019
 Finished: 6/5/2019
