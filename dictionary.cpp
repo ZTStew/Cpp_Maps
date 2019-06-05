@@ -58,9 +58,7 @@ int main(){
     dict.erase(dict.find("d"));
 
 
-    // dict.insert(std::pair<int, int>(1,2));
-
-    /// retrives the value associated with the key, "a"
+    /// retrives the value associated with the key, "b"
     // std::cout << dict["b"];
 
     /// outputs total size of the map
